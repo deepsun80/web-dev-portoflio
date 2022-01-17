@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Sandeep Chandran Web Development Portfolio
+
+Sandeep Chandran personal web development portfolio built using Next.js and MUI.
