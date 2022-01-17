@@ -3,11 +3,27 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
   },
   "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "latest",
+    "@react-spring/parallax": "^9.4.1",
     "next": "latest",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-spring": "^9.4.1",
+    "react-webtech-animated-icons": "^1.0.7"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
   }
 }
