@@ -14,8 +14,8 @@ export const cards = [
     {
         title: 'Ecommerce Template',
         description: 'An ecommerce template built with React.js on the front end, Firebase on the backend, and connected to Stripe for online payments.',
-        previewLink: '#',
-        githubLink: '#',
+        previewLink: 'https://react-store-template.netlify.app/',
+        githubLink: 'https://github.com/deepsun80/react-store',
     }
 ];
 
