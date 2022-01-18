@@ -13,7 +13,7 @@ export const cards = [
     },
     {
         title: 'Ecommerce Template',
-        description: 'An ecommerce template built with React.js, connected to Stripe for online payments.',
+        description: 'An ecommerce template built with React.js on the front end, Firebase on the backend, and connected to Stripe for online payments.',
         previewLink: '#',
         githubLink: '#',
     }
