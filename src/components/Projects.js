@@ -73,13 +73,20 @@ const Projects = () => {
                                             endIcon={<PreviewIcon />}
                                             variant='outlined'
                                             color='info'
-                                            aria-label='external-link'
+                                            aria-label='external-link live-preview'
                                             href={card.previewLink}
+                                            target='_blank'
+                                            rel='noopener noreferrer'
                                         >
                                             Live Preview
                                         </Button>
                                         <div style={{ flexGrow: 1 }} />
-                                        <IconButton aria-label='external-link' href={card.githubLink}>
+                                        <IconButton 
+                                            aria-label='external-link Github-link' 
+                                            href={card.githubLink}
+                                            target='_blank'
+                                            rel='noopener noreferrer'
+                                        >
                                             <GitHubIcon />
                                         </IconButton>
                                     </CardActions>

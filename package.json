@@ -1,5 +1,9 @@
 {
+  "name": "sandeep-chandran-web-dev-portfolio",
   "private": true,
+  "description": "Sandeep Chandran web development portfolio website",
+  "version": "0.0.1",
+  "author": "Sandeep Chandran",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
