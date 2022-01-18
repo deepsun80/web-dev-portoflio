@@ -6,16 +6,16 @@ export const cards = [
         githubLink: 'https://github.com/deepsun80/gatsby-template',
     },
     {
-        title: 'React.js 3D Game',
-        description: 'A web based 3D game built using React three fiber and three.js.',
-        previewLink: '#',
-        githubLink: '#',
-    },
-    {
         title: 'Ecommerce Template',
         description: 'An ecommerce template built with React.js on the front end, Firebase on the backend, and connected to Stripe for online payments.',
         previewLink: 'https://react-store-template.netlify.app/',
         githubLink: 'https://github.com/deepsun80/react-store',
+    },
+    {
+        title: 'React.js 3D Game',
+        description: 'A web based 3D game built using React three fiber and three.js.',
+        previewLink: '#',
+        githubLink: '#',
     }
 ];
 
