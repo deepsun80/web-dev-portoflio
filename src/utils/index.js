@@ -1,21 +1,21 @@
 export const cards = [
     {
         title: 'Business Solutions Application',
-        description: 'A template built for complete solutions for small businesses. On the front end, it includes a front end high performant static generated website built with Gatsby.js. On the backend, it includes a CRM style dashboard styled with Material UI, connected to FaunaDB, Stripe and Calendly via serverless functions.',
+        description: 'A template built for complete solutions for small businesses. On the front end, it includes a static generated website built with Gatsby.js. On the backend, it includes a CRM style dashboard styled with Material UI, connected to FaunaDB, Stripe and Calendly via serverless functions.',
         previewLink: 'https://business-solutions-template.netlify.app',
         githubLink: 'https://github.com/deepsun80/gatsby-template',
     },
     {
         title: 'Ecommerce Template',
-        description: 'An ecommerce template built with React.js on the front end, Firebase on the backend, and connected to Stripe for online payments.',
+        description: 'An ecommerce template built with React.js on the front end, Google Firebase on the back end for authentication and database, and connected to Stripe for online payments.',
         previewLink: 'https://react-store-template.netlify.app/',
         githubLink: 'https://github.com/deepsun80/react-store',
     },
     {
-        title: 'React.js 3D Game',
-        description: 'A web based 3D game built using React three fiber and three.js.',
-        previewLink: '#',
-        githubLink: '#',
+        title: 'Neuroschematic',
+        description: 'An application demo that maps nerve and muscle interactions. Built using React.js and Konva.js on the front end, Google Firebase on the back end for authentication and hosting.',
+        previewLink: 'https://neuroschematic.web.app/',
+        githubLink: 'https://github.com/deepsun80/neuroschematic',
     }
 ];
 

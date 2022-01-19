@@ -43,7 +43,7 @@ const Projects = () => {
                     color='secondary'
                     sx={styles.sectionHeader} 
                 >
-                    Projects
+                    Personal Projects
                 </Typography>
                 <Grid container spacing={2}>
                     {cards?.map((card, index) => {
