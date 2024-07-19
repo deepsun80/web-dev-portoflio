@@ -31,7 +31,7 @@ const Footer = () => {
             <IconButton 
                 color='primary' 
                 aria-label='external-link email-link' 
-                href='mailto:someone@yoursite.com'
+                href='mailto:'
                 target='_blank'
                 rel='noopener noreferrer'
             >
